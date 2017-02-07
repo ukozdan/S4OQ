@@ -6,6 +6,7 @@
 - replacing all textures with high res versions as close as possible to originals. Yes, even the Shoalin Cyborgs Vs Ninja Pirates VII poster!
 - If deviating from original then honour the colour, saturation, brightness and general feel
 - virtually nothing in S4TSS is clean and new, so some dirt and wear is required
+- Be aware and preserve original alpha channel; it appears to be used for opacity, reflection, highlights and illumination. If the texture changes then the alpha channel may need changing too. 
 
 ### SwatEd/Photoshop
 
@@ -21,6 +22,7 @@
 - Medium Detail: 30
 - Large Detail: 30
 - Very Large Detail: 30
+- Experiment with these values. The originals went bump crazy in places; ideally just pick out details that really need it. 
 - Bump/Normal Map needs to be saved as 24bit .tga, convention is "_norm" as end of file name. 
 
 ### SwatEd
