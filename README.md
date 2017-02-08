@@ -1,5 +1,7 @@
 # S4OQ
 
+![Craps table, before and after](https://github.com/ukozdan/S4OQ/blob/master/Preview/barb_craptable_comparison.jpg)
+
 ## Basic approach
 
 - Upscaling all textures by 2
