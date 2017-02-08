@@ -15,8 +15,8 @@
   - Choose "generate mipmaps". 
     - dxt1 for greatest compression
 	- dxt3, or dxt5 for alpha channels
-- Create shader for all textures, except UI elements
-  - within texture browser, with "File > New" 
+- Create shader for all textures, except UI elements, within texture browser
+  - "File > New" 
   - name item "shader_itemname"
   - click "New"
   - move new window to side 
