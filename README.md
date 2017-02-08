@@ -75,4 +75,4 @@ As mentioned previously, the Nvidia Photoshop plug-in can provide the bump/norma
   - return to new window
   - select "NormalMap" channel 
   - select "Use" 
-  - close window
+  - close window 
