@@ -25,26 +25,26 @@
 
 ## Importing textures/diffuse maps
 
-- import into SwatEd editor for an existing package (i.e. replacing existing textures), or a new package (i.e. entirely new textures for new objects). 
-  - Choose "generate mipmaps". 
-    - dxt1 for greatest compression
-	- dxt3, or dxt5 for alpha channels
+import into SwatEd editor for an existing package (i.e. replacing existing textures), or a new package (i.e. entirely new textures for new objects). 
+
+- Choose "generate mipmaps". 
+  - dxt1 for greatest compression
+  - dxt3, or dxt5 for alpha channels
 	
 ## Assigning textures/diffuse maps to shaders
 
-Shaders determine reflection, absorbtion, translucency and glow. As mentioned previously, the texture/diffuse map alpha channel informs this. 
-	
-- Create shader for all textures, except UI elements
-  - Open SwatEd texture browser
-  - "File > New" 
-  - name item "shader_itemname"
-  - click "New"
-  - move new window to side 
-  - highlight texture in browser
-  - select "diffuse" channel in new window 
-  - select "Use" 
-  - close window 
-  - save package as "packagename.utx"
+Shaders determine reflection, absorbtion, translucency and glow. As mentioned previously, the texture/diffuse map alpha channel informs this. Create a shader for all textures, except UI elements. 
+
+- Open SwatEd texture browser
+- "File > New" 
+- name item "shader_itemname"
+- click "New"
+- move new window to side 
+- highlight texture in browser
+- select "diffuse" channel in new window 
+- select "Use" 
+- close window 
+- save package as "packagename.utx"
 
 ## Creating bump/normal maps with CrazyBump
 
@@ -61,20 +61,22 @@ As mentioned previously, the Nvidia Photoshop plug-in can provide the bump/norma
 
 ## Importing bump/normal maps
 
-- Within editor texture browser, 
-  - "File > import"
-  - Choose package to import into
-  - choose "DXT5-NORM" compression 
-  - When asked if you want to set "LODset value" for your Normal map to "LODSET_NormalMap", click "Yes"
+Within the editor texture browser: 
+
+- "File > import"
+- Choose package to import into
+- choose "DXT5-NORM" compression 
+- When asked if you want to set "LODset value" for your Normal map to "LODSET_NormalMap", click "Yes"
   
 ## Assigning bump/normal maps to shaders
   
-- In texture browser 
-  - choose a shader
-  - right-click and select "Properties"
-  - Put new window to side 
-  - select correct normal map in texture browser
-  - return to new window
-  - select "NormalMap" channel 
-  - select "Use" 
-  - close window 
+Within the editor texture browser: 
+
+- choose a shader
+- right-click and select "Properties"
+- Put new window to side 
+- select correct normal map in texture browser
+- return to new window
+- select "NormalMap" channel 
+- select "Use" 
+- close window 

@@ -1,0 +1,3 @@
+# Ignore all Photoshop files and original texture files
+*.dds
+*.psd
