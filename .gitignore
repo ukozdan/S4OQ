@@ -1,3 +1,5 @@
-# Ignore all Photoshop files and original texture files
+# Ignore all Photoshop files, original texture files and master directories
 *.dds
 *.psd
+dl/
+optimised/
