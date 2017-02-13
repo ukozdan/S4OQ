@@ -1,6 +1,6 @@
 # S4OQ
 
-{% include image.html url="https://github.com/ukozdan/S4OQ/blob/master/Preview/barb_craptable_comparison.jpg" description="Craps table before and after." %}
+![Craps table, before and after](https://github.com/ukozdan/S4OQ/blob/master/Preview/barb_craptable_comparison.jpg)
 
 ## Basic approach
 
