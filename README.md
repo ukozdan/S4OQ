@@ -14,9 +14,7 @@
 
 Note: currently adding completed items to this list. 
 
-Content
-- Textures
-- ContentExpansion
+- Content
   - Textures
     - AMC_Tex
       - [x] amc_analog_recorder_large
@@ -100,3 +98,79 @@ Content
       - [x] rack01
         - [ ] Normal
         - [ ] Shader
+    - Arms_Tex
+	- AW-Cubes
+	- Bar_Tex
+	- Barbershop_tex
+	- bath_Tex
+	- bink_textures
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+- ContentExpansion
+  - Textures
+
