@@ -139,103 +139,581 @@ Note: currently adding completed items to this list.
 	    - [ ] Normal
         - [ ] Shader
       - [ ] arm_roofline
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_stain01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_stairout01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_tile_hall01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_tile04
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_tile05
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wall01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wall02
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wall03_charred
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wall03
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wall04
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wall05
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wastebin01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_window02
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_wood01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_woodfloor02
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arm_woodfurn01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_air_conditioner
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_awning
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_barebulb_socket
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_barebulb
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_bathsink
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_bathtoilet
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_bathtub
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_bench
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_billboard
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_boombox
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_ceilingsconcespec
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_ceilingstain
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_ceilingvent
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_char
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_char2
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_couch
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_couch2
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_crate01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_debri01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_dumpster
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_dumpsterplas
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_flolamp01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_floorbrk
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_gasoven
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_glass
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_gun_crate_rope
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_gun_crate
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_kitchen01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_kitchenformica
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_kitchensink
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_kitchenwood
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_kitchenwood2
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_lamp
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_lightkero
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_lightkeroglow
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_matress
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_metal01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_mirrorbig
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_pp
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_pptop
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_radiator
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_refridgerator
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_shoppingcart
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_shoppingcartspec
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_shrub2
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_shrubsid
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_sofa01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_stairs
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_stairscon
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_stlight2
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_stlightcables
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_stlightpole2
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_stlighttrans
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_tolilethole
+	    - [ ] Normal
+        - [ ] Shader
       - [x] arms_trailer
+	    - [ ] Normal
+        - [ ] Shader
       - [x] arms_trailerside
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_trashbag
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_treebark
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_treebase
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_treeleaves
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_tvcart
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_wallsconcespec
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_wardrove
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] arms_wheater
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] armsl_wood01
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] ArmsWindowProjectorAa
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] ArmsWindowProjectorBb
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] ArmsWindowProjectorCc
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] BasementFace1
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] BasementFace2
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] BasementFace3
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] BasementFace4
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] BasementWater
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] BasementWaterSpecMask
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] KeroseneLampShadow
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] Rifle_ak74
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] SecurityCageLight
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] spec
+	    - [ ] Normal
+        - [ ] Shader
       - [ ] TreeLeavesShadow
+	    - [ ] Normal
+        - [ ] Shader
 	- AW-Cubes
+      - [ ] bs_dull
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] bs_dullteal
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] bs_dullwood
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] protocube_0
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] protocube_1
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] protocube_2
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] protocube_3
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] protocube_4
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] protocube_5
+	    - [ ] Normal
+        - [ ] Shader
 	- Bar_Tex
+      - [ ] bar_55gal
+      - [ ] bar_air_conditioner
+      - [ ] bar_armlamp
+      - [ ] bar_ashtray
+      - [ ] bar_ashtray
+      - [ ] bar_asphalt
+      - [ ] bar_bagrice
+      - [ ] bar_bailsign
+      - [ ] bar_barbeerb
+      - [ ] bar_barebulb_socket
+      - [ ] bar_barebulb
+      - [ ] bar_bathcabinet
+      - [ ] bar_bathpaper
+      - [ ] bar_bathplunger
+      - [ ] bar_bathsink
+      - [ ] bar_bathsoap
+      - [ ] bar_bathtoilet
+      - [ ] bar_bathtowel
+      - [ ] bar_bear
+      - [ ] bar_bed
+      - [ ] bar_bedpattern
+      - [ ] bar_bedpillow
+      - [ ] bar_bedpilow
+      - [ ] bar_bedsheet
+      - [ ] bar_bedsheet1
+      - [ ] bar_bedsheet2
+      - [ ] bar_bicycle
+      - [ ] bar_big_gary_pedestal
+      - [ ] bar_big_gary
+      - [ ] bar_black
+      - [ ] bar_books
+      - [ ] bar_boombox
+      - [ ] bar_brass
+      - [ ] bar_brickwall01
+      - [ ] bar_broccoli
+      - [ ] bar_broom
+      - [ ] bar_broom2
+      - [ ] bar_build03
+      - [ ] bar_cabbage
+      - [ ] bar_cablebox
+      - [ ] bar_cableboxbrk
+      - [ ] bar_calendar_girl
+      - [ ] bar_calendar
+      - [ ] bar_cardbox
+      - [ ] bar_carp01
+      - [ ] bar_carpet
+      - [ ] bar_Cash1
+      - [ ] bar_Cash10s
+      - [ ] bar_cashregister
+      - [ ] bar_ceilingvent
+      - [ ] bar_chairred
+      - [ ] bar_chrome01
+      - [ ] bar_chrometrim
+      - [ ] bar_cigmachine
+      - [ ] bar_cirfluor
+      - [ ] bar_clothmess
+      - [ ] bar_clothmessocks
+      - [ ] bar_clothpantsweater
+      - [ ] bar_coffeemaker
+      - [ ] bar_coffeepot
+      - [ ] bar_container
+      - [ ] bar_cottage
+      - [ ] bar_delivery
+      - [ ] bar_deliveryfront
+      - [ ] bar_deliverywheel
+      - [ ] bar_dining_projector
+      - [ ] bar_donutbox
+      - [ ] bar_door_01
+      - [ ] bar_doorframe
+      - [ ] bar_dresser02
+      - [ ] bar_duct
+      - [ ] bar_dumbell
+      - [ ] bar_dumpster_01
+      - [ ] bar_dumpster
+      - [ ] bar_dumpsterplas
+      - [ ] bar_exitsign
+      - [ ] bar_extinguisher
+      - [ ] bar_facade_soffit
+      - [ ] bar_facade_yellow
+      - [ ] bar_fanlamp
+      - [ ] bar_fanlampon
+      - [ ] bar_ffrypan
+      - [ ] bar_flolamp02
+      - [ ] bar_floor_dirty6x6
+      - [ ] bar_floorlamp
+      - [ ] bar_floorlamplum
+      - [ ] bar_floortile
+      - [ ] bar_foldingtable
+      - [ ] bar_foodwallsign
+      - [ ] bar_freeweight
+      - [ ] bar_frontcounter
+      - [ ] bar_frontcounter01
+      - [ ] bar_frontcounter02
+      - [ ] bar_frontdoor
+      - [ ] bar_garagedoor
+      - [ ] bar_glass
+      - [ ] bar_hotplate_grill
+      - [ ] bar_hotplate
+      - [ ] bar_iron_black
+      - [ ] bar_k_cabinetdesk
+      - [ ] bar_kbutcherboard
+      - [ ] bar_kcabinet
+      - [ ] bar_kcabinetdesk
+      - [ ] bar_kcleaver
+      - [ ] bar_kdrainer
+      - [ ] bar_kfrier
+      - [ ] bar_khotsauce
+      - [ ] bar_kitchenette_sink
+      - [ ] bar_kitchenette
+      - [ ] bar_kitchentable01
+      - [ ] bar_kmetal
+      - [ ] bar_kmetalbars
+      - [ ] bar_kmetalgrid
+      - [ ] bar_kmetalzinc
+      - [ ] bar_knapkinholder
+      - [ ] bar_kpapercon
+      - [ ] bar_kplascontainer
+      - [ ] bar_kpot
+      - [ ] bar_ksink
+      - [ ] bar_ksoy
+      - [ ] bar_ksoy2
+      - [ ] bar_ksteamer
+      - [ ] bar_lamp01
+      - [ ] bar_lampw
+      - [ ] bar_lantern_string
+      - [ ] bar_lantern_white
+      - [ ] bar_lantern
+      - [ ] bar_lazyboy
+      - [ ] bar_lazyboy2
+      - [ ] bar_lightmenu
+      - [ ] bar_litsign
+      - [ ] bar_LtSwtch
+      - [ ] bar_mailbox
+      - [ ] bar_mantel
+      - [ ] bar_metal_shutter
+      - [ ] bar_metlamp
+      - [ ] bar_milkmug
+      - [ ] bar_minifridge_condenser
+      - [ ] bar_minifridge
+      - [ ] bar_mop
+      - [ ] bar_napkins
+      - [ ] bar_nopark_01
+      - [ ] bar_oilgallon
+      - [ ] bar_onion
+      - [ ] bar_pA
+      - [ ] bar_palm
+      - [ ] bar_papertbox
+      - [ ] bar_paperto
+      - [ ] bar_papertowelp
+      - [ ] bar_paperwall
+      - [ ] bar_PhoneBook_open
+      - [ ] bar_plant_01
+      - [ ] bar_plantgreen
+      - [ ] bar_plantspider
+      - [ ] bar_plantstandgrd
+      - [ ] bar_plantstanding
+      - [ ] bar_playpen
+      - [ ] bar_playpen2
+      - [ ] bar_playpen2trans
+      - [ ] bar_posterguns
+      - [ ] bar_recycle
+      - [ ] bar_red
+      - [ ] bar_refridcom
+      - [ ] bar_refridcomopa
+      - [ ] bar_refridgeglass
+      - [ ] bar_refridgerator
+      - [ ] bar_reloader_glass
+      - [ ] bar_reloader
+      - [ ] bar_restwall
+      - [ ] bar_riceboiled
+      - [ ] bar_ricepile
+      - [ ] bar_ricepilebig
+      - [ ] bar_screen
+      - [ ] bar_shelfsteel01
+      - [ ] bar_showerfloor
+      - [ ] bar_showerwalls
+      - [ ] bar_shrub
+      - [ ] bar_signs
+      - [ ] bar_signs01
+      - [ ] bar_sodamac
+      - [ ] bar_sodamachine
+      - [ ] bar_sofa02
+      - [ ] bar_stairs_cement
+      - [ ] bar_stairs01
+      - [ ] bar_stlight
+      - [ ] bar_stlight2
+      - [ ] bar_stlightcables
+      - [ ] bar_stlightpole2
+      - [ ] bar_stlighttrans
+      - [ ] bar_storefront01
+      - [ ] bar_street
+      - [ ] bar_styrofoam
+      - [ ] bar_subwaymetal
+      - [ ] bar_subwaymetalplate
+      - [ ] bar_tableset
+      - [ ] bar_tablewood
+      - [ ] bar_terrain
+      - [ ] bar_terrainext
+      - [ ] bar_tile01
+      - [ ] bar_tile02
+      - [ ] bar_trash
+      - [ ] bar_trash02
+      - [ ] bar_trashbag
+      - [ ] bar_trashcan
+      - [ ] bar_trashcandirt
+      - [ ] bar_trashcanlid
+      - [ ] bar_trashcanwet
+      - [ ] bar_trashground
+      - [ ] bar_tray01
+      - [ ] bar_tv
+      - [ ] bar_tvcart
+      - [ ] bar_vacuum
+      - [ ] bar_vendingmachine
+      - [ ] bar_vent
+      - [ ] bar_wall_livingarea
+      - [ ] bar_wall01_horzstripes
+      - [ ] bar_wall01
+      - [ ] bar_wall02
+      - [ ] bar_wall03
+      - [ ] bar_walltowall
+      - [ ] bar_WallVent
+      - [ ] bar_wardrobe
+      - [ ] bar_weight_bench
+      - [ ] bar_whiteb
+      - [ ] bar_wok
+      - [ ] bar_woklid
+      - [ ] bar_woodfloor
+      - [ ] bar_woodtrim
+      - [ ] bar_wrapped_toiletpaper
+      - [ ] barawning
+      - [ ] barbrick
+      - [ ] barbrickwhite
+      - [ ] barfloor_02
+      - [ ] barkitchen01
+      - [ ] barpaper_01
+      - [ ] barpaper_02
+      - [ ] barplanters
+      - [ ] barrug
+      - [ ] barsign
+      - [ ] barsky
+      - [ ] barsofa
+      - [ ] barstreetfront02
+      - [ ] barstucco_02
+      - [ ] barTinWall
+      - [ ] barwindow03
+      - [ ] barwinsmall
+      - [ ] Black
+      - [ ] bsidewalk
+      - [ ] bstucco
+      - [ ] btile
+      - [ ] bwoodred
+      - [ ] concfloor_02
+      - [ ] crate_01
+      - [ ] FoodWallWindowProjector
+      - [ ] mexart_01
+      - [ ] papertest
+      - [ ] tanbuilding
+      - [ ] tile_blue
+      - [ ] tile_wall01b
 	- Barbershop_tex
 	- bath_Tex
 	- bink_textures
