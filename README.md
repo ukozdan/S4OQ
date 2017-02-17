@@ -99,6 +99,141 @@ Note: currently adding completed items to this list.
         - [ ] Normal
         - [ ] Shader
     - Arms_Tex
+      - [x] arm_aluminum
+	    - [ ] Normal
+        - [ ] Shader
+      - [x] arm_asphalt
+	    - [ ] Normal
+        - [ ] Shader
+      - [x] arm_brickwall01
+	    - [ ] Normal
+        - [ ] Shader
+      - [x] arm_ceiling02
+	    - [ ] Normal
+        - [ ] Shader
+      - [x] arm_ceiling03
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] arm_chair02
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] arm_cinderblock04
+	    - [ ] Normal
+        - [ ] Shader
+      - [x] arm_debrisdust-Recovered (check file name)
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] arm_entryshack01
+	    - [ ] Normal
+        - [ ] Shader
+      - [x] arm_fence01
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] arm_metgrate01
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] arm_metgrate02
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] arm_metgrey
+	    - [ ] Normal
+        - [ ] Shader
+      - [ ] arm_roofline
+      - [ ] arm_stain01
+      - [ ] arm_stairout01
+      - [ ] arm_tile_hall01
+      - [ ] arm_tile04
+      - [ ] arm_tile05
+      - [ ] arm_wall01
+      - [ ] arm_wall02
+      - [ ] arm_wall03_charred
+      - [ ] arm_wall03
+      - [ ] arm_wall04
+      - [ ] arm_wall05
+      - [ ] arm_wastebin01
+      - [ ] arm_window02
+      - [ ] arm_wood01
+      - [ ] arm_woodfloor02
+      - [ ] arm_woodfurn01
+      - [ ] arms_air_conditioner
+      - [ ] arms_awning
+      - [ ] arms_barebulb_socket
+      - [ ] arms_barebulb
+      - [ ] arms_bathsink
+      - [ ] arms_bathtoilet
+      - [ ] arms_bathtub
+      - [ ] arms_bench
+      - [ ] arms_billboard
+      - [ ] arms_boombox
+      - [ ] arms_ceilingsconcespec
+      - [ ] arms_ceilingstain
+      - [ ] arms_ceilingvent
+      - [ ] arms_char
+      - [ ] arms_char2
+      - [ ] arms_couch
+      - [ ] arms_couch2
+      - [ ] arms_crate01
+      - [ ] arms_debri01
+      - [ ] arms_dumpster
+      - [ ] arms_dumpsterplas
+      - [ ] arms_flolamp01
+      - [ ] arms_floorbrk
+      - [ ] arms_gasoven
+      - [ ] arms_glass
+      - [ ] arms_gun_crate_rope
+      - [ ] arms_gun_crate
+      - [ ] arms_kitchen01
+      - [ ] arms_kitchenformica
+      - [ ] arms_kitchensink
+      - [ ] arms_kitchenwood
+      - [ ] arms_kitchenwood2
+      - [ ] arms_lamp
+      - [ ] arms_lightkero
+      - [ ] arms_lightkeroglow
+      - [ ] arms_matress
+      - [ ] arms_metal01
+      - [ ] arms_mirrorbig
+      - [ ] arms_pp
+      - [ ] arms_pptop
+      - [ ] arms_radiator
+      - [ ] arms_refridgerator
+      - [ ] arms_shoppingcart
+      - [ ] arms_shoppingcartspec
+      - [ ] arms_shrub2
+      - [ ] arms_shrubsid
+      - [ ] arms_sofa01
+      - [ ] arms_stairs
+      - [ ] arms_stairscon
+      - [ ] arms_stlight2
+      - [ ] arms_stlightcables
+      - [ ] arms_stlightpole2
+      - [ ] arms_stlighttrans
+      - [ ] arms_tolilethole
+      - [x] arms_trailer
+      - [x] arms_trailerside
+      - [ ] arms_trashbag
+      - [ ] arms_treebark
+      - [ ] arms_treebase
+      - [ ] arms_treeleaves
+      - [ ] arms_tvcart
+      - [ ] arms_wallsconcespec
+      - [ ] arms_wardrove
+      - [ ] arms_wheater
+      - [ ] armsl_wood01
+      - [ ] ArmsWindowProjectorAa
+      - [ ] ArmsWindowProjectorBb
+      - [ ] ArmsWindowProjectorCc
+      - [ ] BasementFace1
+      - [ ] BasementFace2
+      - [ ] BasementFace3
+      - [ ] BasementFace4
+      - [ ] BasementWater
+      - [ ] BasementWaterSpecMask
+      - [ ] KeroseneLampShadow
+      - [ ] Rifle_ak74
+      - [ ] SecurityCageLight
+      - [ ] spec
+      - [ ] TreeLeavesShadow
 	- AW-Cubes
 	- Bar_Tex
 	- Barbershop_tex
