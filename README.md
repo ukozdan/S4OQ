@@ -18,12 +18,12 @@ Note: currently adding completed items to this list.
 
 | AMC_Tex |  |  |  |
 | ------------- |  ------------- |  ------------- |  ------------- |
-| - [x] amc_analog_recorder_large | [x] amc_bath_wall | [x] amc_bathgross | [ ] amc_black |
+| [x] amc_analog_recorder_large | [x] amc_bath_wall | [x] amc_bathgross | [ ] amc_black |
 | [x] amc_bluemarble | [x] amc_ceiling | [x] amc_exit_light | [x] amc_gold_record |
 | [x] amc_keyboard | [ ] amc_lobbyglass_spec | [ ] amc_mixing_board | [x] amc_monitor |
 | [ ] amc_recesscan | [x] amc_small_mixing_board | [x] amc_soundtiles | [ ] amc_spec |
-| [x] amc_vtilewhite | [x] amcbaffle | [x] amccarpetgrey | [x] amcwall01
-| [x] amcwoodfloor | [ ] lobbycube1 | [ ] lobbycube2 | [ ] lobbycube3
+| [x] amc_vtilewhite | [x] amcbaffle | [x] amccarpetgrey | [x] amcwall01 |
+| [x] amcwoodfloor | [ ] lobbycube1 | [ ] lobbycube2 | [ ] lobbycube3 |
 | [ ] lobbycube4 | [ ] lobbycube5 | [x] rack01 |  |
 
 | Arms_Tex |  |  |  |
