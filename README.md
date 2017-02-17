@@ -6,9 +6,10 @@
 
 - Upscaling all textures by 2
 - replacing all textures with high res versions as close as possible to originals. Yes, even the Shoalin Cyborgs Vs Ninja Pirates VII poster!
-- If deviating from original then honour the colour, saturation, brightness and general feel
-- virtually nothing in S4TSS is clean and new, so some dirt and wear is required
-- Be aware and preserve original alpha channel; it appears to be used for opacity, reflection, highlights and illumination. If the texture changes then the alpha channel may need changing too. 
+- Honour the colour, saturation, brightness and general feel of the original
+- Keep the dirt and wear from the original
+- Preserve, or reproduce original alpha channel
+- Perhaps be a little subtler with the normal maps than the originals
 
 ## Progress 
 
@@ -413,7 +414,6 @@ Note: currently adding completed items to this list.
 
 ### ContentExpansion
 
-
 | Arcade_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
 |  |  |  |  |
@@ -489,5 +489,4 @@ Note: currently adding completed items to this list.
 | warehouse_tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
 |  |  |  |  |
-
 
