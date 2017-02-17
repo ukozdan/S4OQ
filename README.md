@@ -14,164 +14,89 @@
 
 Note: currently adding completed items to this list. 
 
-.
-├── Content
-|   └── Textures
-|       └──
-├── ContentExpansion
-|   └── Textures
-|       └── AMC_Tex
-|           └── [x] amc_analog_recorder_large
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_bath_wall
-|               └── [ ] Normal
-|               └── Shader
-|           └── [x] amc_bathgross
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] amc_black
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_bluemarble
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_ceiling
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_exit_light
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_gold_record
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_keyboard
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] amc_lobbyglass_spec
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] amc_mixing_board
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_monitor
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] amc_recesscan
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_small_mixing_board
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_soundtiles
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] amc_spec
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amc_vtilewhite
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amcbaffle
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amccarpetgrey
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amcwall01
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] amcwoodfloor
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] lobbycube1
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] lobbycube2
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] lobbycube3
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] lobbycube4
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [ ] lobbycube5
-|               └── [ ] Normal
-|               └── [ ] Shader
-|           └── [x] rack01
-|               └── [ ] Normal
-|               └── [ ] Shader
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
-|       └──
+Content
+- Textures
+- ContentExpansion
+-- Textures
+--- AMC_Tex
+---- [x] amc_analog_recorder_large
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_bath_wall
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_bathgross
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] amc_black
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_bluemarble
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_ceiling
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_exit_light
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_gold_record
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_keyboard
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] amc_lobbyglass_spec
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] amc_mixing_board
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_monitor
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] amc_recesscan
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_small_mixing_board
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_soundtiles
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] amc_spec
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amc_vtilewhite
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amcbaffle
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amccarpetgrey
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amcwall01
+----- [ ] Normal
+----- [ ] Shader
+---- [x] amcwoodfloor
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] lobbycube1
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] lobbycube2
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] lobbycube3
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] lobbycube4
+----- [ ] Normal
+----- [ ] Shader
+---- [ ] lobbycube5
+----- [ ] Normal
+----- [ ] Shader
+---- [x] rack01
+----- [ ] Normal
+----- [ ] Shader
