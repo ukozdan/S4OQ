@@ -64,7 +64,7 @@
  
 | Bar_Tex |  |  |  |
 | ------------- |  ------------- |  ------------- |  ------------- |
-| [ ] bar_55gal | [ ] bar_air_conditioner | [ ] bar_armlamp | [ ] bar_ashtray |
+| [ ] bar_55gal | [ ] bar_air_conditioner | [ ] bar_armlamp | [x] bar_ashtray |
 | [ ] bar_ashtray | [ ] bar_asphalt | [ ] bar_bagrice | [ ] bar_bailsign |
 | [ ] bar_barbeerb | [ ] bar_barebulb_socket | [ ] bar_barebulb | [ ] bar_bathcabinet |
 | [ ] bar_bathpaper | [ ] bar_bathplunger | [ ] bar_bathsink | [ ] bar_bathsoap |
@@ -72,7 +72,7 @@
 | [ ] bar_bedpattern | [ ] bar_bedpillow | [ ] bar_bedpilow | [ ] bar_bedsheet |
 | [ ] bar_bedsheet1 | [ ] bar_bedsheet2 | [ ] bar_bicycle | [ ] bar_big_gary_pedestal |
 | [ ] bar_big_gary | [ ] bar_black | [ ] bar_books | [ ] bar_boombox |
-| [ ] bar_brass | [ ] bar_brickwall01 | [ ] bar_broccoli | [ ] bar_broom |
+| [ ] bar_brass | [x] bar_brickwall01 | [ ] bar_broccoli | [ ] bar_broom |
 | [ ] bar_broom2 | [ ] bar_build03 | [ ] bar_cabbage | [ ] bar_cablebox |
 | [ ] bar_cableboxbrk | [ ] bar_calendar_girl | [ ] bar_calendar | [ ] bar_cardbox |
 | [ ] bar_carp01 | [ ] bar_carpet | [ ] bar_Cash1 | [ ] bar_Cash10s |
