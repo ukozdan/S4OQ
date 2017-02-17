@@ -173,4 +173,22 @@ Note: currently adding completed items to this list.
 	- wall_Tex
 - ContentExpansion
   - Textures
-
+	- Arcade_Tex
+	- bs_Tex
+	- CASMtex
+	- desOff_tex
+	- druglab
+	- GIGN_OfficerTex
+	- gui_tex2
+	- halfway_tex
+	- maleHomelessTex
+	- maleMafiaTex
+	- subway_tex
+	- Suspect1_officerTex
+	- Suspect2_officerTex
+	- SWAT1stPersonTex2
+	- SwatFX2tex
+	- SwatGear2Tex
+	- SWATnoArmourTex
+	- Taiwan_OfficerTex
+	- warehouse_tex
