@@ -11,9 +11,7 @@
 - Preserve, or reproduce original alpha channel
 - Perhaps be a little subtler with the normal maps than the originals
 
-## Progress 
-
-Note: currently adding completed items to this list. 
+## Progress (updated: 17/02/2017)
 
 ### Content
 
@@ -134,7 +132,8 @@ Note: currently adding completed items to this list.
 
 | Barbershop_tex |  |  |  |
 | ------------- |  ------------- |  ------------- |  ------------- |
-|  |  |  |  |
+| [x] barb_barber_brush | [x] barb_acousceiling | [x] barb_craptable | [x] barb_whiteb |
+| [x] barb_intercom |  |  |  |
 
 | bath_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -210,7 +209,7 @@ Note: currently adding completed items to this list.
 
 | gui_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
-|  |  |  |  |
+| [x] Floorplan_SP-MeatBarn |  |  |  |
 
 | Hosp |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -234,7 +233,7 @@ Note: currently adding completed items to this list.
 
 | Jewel_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
-|  |  |  |  |
+| [x] jewel_cam | [x] jewel_LED_message | [x] jewel_ceiling_banners |  |
 
 | Junk_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -318,7 +317,7 @@ Note: currently adding completed items to this list.
 
 | Outdoors_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
-|  |  |  |  |
+| [x] arms_trashchute | [x] out_brick02 |  |  |
 
 | Paradise_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -410,13 +409,15 @@ Note: currently adding completed items to this list.
 
 | wall_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
-|  |  |  |  |
+| [x] wall_clock | [x] off_smokedetector_base | [x] off_smokedetector |  |
 
 ### ContentExpansion
 
 | Arcade_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
-|  |  |  |  |
+| [x] tribalwar_screen02 | [x] tribalwar_screen01 | [x] tribalwar_screen_backround | [x] carpet |
+| [x] tribalwar_diffuse | [x] movie01 | [x] arcade_wall_red | [x] arcade_funtime_sign_off |
+| [x] arcade_funtime_sign | [x] air_hockey |  |  |
 
 | bs_Tex |  |  |  |
 | ------------ | ------------ | ------------ | ------------ |
