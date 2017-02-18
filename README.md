@@ -1,10 +1,3 @@
-<style>
-.complete {
-    font-family: Wingdings;
-	color: green;
-}
-</style>
-
 # S4OQ
 
 ![Craps table, before and after](https://github.com/ukozdan/S4OQ/blob/master/Preview/barb_craptable_comparison.jpg)
@@ -24,7 +17,7 @@
 
 | AMC_Tex |  |  |  |
 | ------------- |  ------------- |  ------------- |  ------------- |
-| <span class="complete">þ</span> amc_analog_recorder_large | [x] amc_bath_wall | [x] amc_bathgross | [ ] amc_black |
+| [x] amc_analog_recorder_large | [x] amc_bath_wall | [x] amc_bathgross | [ ] amc_black |
 | [x] amc_bluemarble | [x] amc_ceiling | [x] amc_exit_light | [x] amc_gold_record |
 | [x] amc_keyboard | [ ] amc_lobbyglass_spec | [x] amc_mixing_board | [x] amc_monitor |
 | [ ] amc_recesscan | [x] amc_small_mixing_board | [x] amc_soundtiles | [ ] amc_spec |
