@@ -29,7 +29,7 @@
 | ------------- |  ------------- |  ------------- |  ------------- |
 | [x] arm_aluminum | [x] arm_asphalt | [x] arm_brickwall01 | [x] arm_ceiling02 |
 | [x] arm_ceiling03 | [ ] arm_chair02 | [ ] arm_cinderblock04 | [x] arm_debrisdust-Recovered (check file name) |
-| [ ] arm_entryshack01 | [x] arm_fence01 | [x] arm_metgrate01 | [ ] arm_metgrate02 |
+| [ ] arm_entryshack01 | [x] arm_fence01 | [x] arm_metgrate01 | [x] arm_metgrate02 |
 | [ ] arm_metgrey | [ ] arm_roofline | [ ] arm_stain01 | [ ] arm_stairout01 |
 | [ ] arm_tile_hall01 | [ ] arm_tile04 | [ ] arm_tile05 | [ ] arm_wall01 |
 | [ ] arm_wall02 | [ ] arm_wall03_charred | [ ] arm_wall03 | [ ] arm_wall04 |
