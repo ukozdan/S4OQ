@@ -80,7 +80,7 @@
 | [ ] bar_chrometrim | [ ] bar_cigmachine | [ ] bar_cirfluor | [ ] bar_clothmess |
 | [ ] bar_clothmessocks | [ ] bar_clothpantsweater | [ ] bar_coffeemaker | [ ] bar_coffeepot |
 | [ ] bar_container | [ ] bar_cottage | [ ] bar_delivery | [ ] bar_deliveryfront |
-| [ ] bar_deliverywheel | [ ] bar_dining_projector | [ ] bar_donutbox | [ ] bar_door_01 |
+| [ ] bar_deliverywheel | [x] bar_dining_projector | [ ] bar_donutbox | [ ] bar_door_01 |
 | [ ] bar_doorframe | [ ] bar_dresser02 | [ ] bar_duct | [ ] bar_dumbell |
 | [ ] bar_dumpster_01 | [ ] bar_dumpster | [ ] bar_dumpsterplas | [ ] bar_exitsign |
 | [ ] bar_extinguisher | [ ] bar_facade_soffit | [ ] bar_facade_yellow | [ ] bar_fanlamp |
@@ -123,7 +123,7 @@
 | [ ] bar_wok | [ ] bar_woklid | [ ] bar_woodfloor | [ ] bar_woodtrim |
 | [ ] bar_wrapped_toiletpaper | [ ] barawning | [ ] barbrick | [ ] barbrickwhite |
 | [ ] barfloor_02 | [ ] barkitchen01 | [ ] barpaper_01 | [ ] barpaper_02 |
-| [ ] barplanters | [ ] barrug | [ ] barsign | [ ] barsky |
+| [ ] barplanters | [x] barrug | [ ] barsign | [ ] barsky |
 | [ ] barsofa | [ ] barstreetfront02 | [ ] barstucco_02 | [ ] barTinWall |
 | [ ] barwindow03 | [ ] barwinsmall | [ ] Black | [ ] bsidewalk |
 | [ ] bstucco | [ ] btile | [ ] bwoodred | [ ] concfloor_02 |
