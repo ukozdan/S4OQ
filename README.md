@@ -48,7 +48,7 @@
 | [ ] arms_shoppingcart | [ ] arms_shoppingcartspec | [ ] arms_shrub2 | [ ] arms_shrubsid |
 | [ ] arms_sofa01 | [ ] arms_stairs | [ ] arms_stairscon | [ ] arms_stlight2 |
 | [ ] arms_stlightcables | [ ] arms_stlightpole2 | [ ] arms_stlighttrans | [ ] arms_tolilethole |
-| [x] arms_trailer | [x] arms_trailerside | [ ] arms_trashbag | [ ] arms_treebark |
+| [x] arms_trailer | [x] arms_trailerside | [ ] arms_trashbag | [x] arms_treebark |
 | [ ] arms_treebase | [ ] arms_treeleaves | [ ] arms_tvcart | [ ] arms_wallsconcespec |
 | [ ] arms_wardrove | [ ] arms_wheater | [ ] armsl_wood01 | [ ] ArmsWindowProjectorAa |
 | [ ] ArmsWindowProjectorBb | [ ] ArmsWindowProjectorCc | [ ] BasementFace1 | [ ] BasementFace2 |
