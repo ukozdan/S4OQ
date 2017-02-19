@@ -40,7 +40,7 @@
 | [ ] arms_ceilingsconcespec | [ ] arms_ceilingstain | [ ] arms_ceilingvent | [ ] arms_char |
 | [ ] arms_char2 | [ ] arms_couch | [ ] arms_couch2 | [ ] arms_crate01 |
 | [ ] arms_debri01 | [ ] arms_dumpster | [ ] arms_dumpsterplas | [ ] arms_flolamp01 |
-| [ ] arms_floorbrk | [ ] arms_gasoven | [ ] arms_glass | [ ] arms_gun_crate_rope |
+| [ ] arms_floorbrk | [ ] arms_gasoven | [ ] arms_glass | [x] arms_gun_crate_rope |
 | [ ] arms_gun_crate | [ ] arms_kitchen01 | [ ] arms_kitchenformica | [ ] arms_kitchensink |
 | [ ] arms_kitchenwood | [ ] arms_kitchenwood2 | [ ] arms_lamp | [ ] arms_lightkero |
 | [ ] arms_lightkeroglow | [ ] arms_matress | [ ] arms_metal01 | [ ] arms_mirrorbig |
@@ -49,7 +49,7 @@
 | [ ] arms_sofa01 | [ ] arms_stairs | [ ] arms_stairscon | [ ] arms_stlight2 |
 | [ ] arms_stlightcables | [ ] arms_stlightpole2 | [ ] arms_stlighttrans | [ ] arms_tolilethole |
 | [x] arms_trailer | [x] arms_trailerside | [ ] arms_trashbag | [x] arms_treebark |
-| [ ] arms_treebase | [ ] arms_treeleaves | [ ] arms_tvcart | [ ] arms_wallsconcespec |
+| [x] arms_treebase | [ ] arms_treeleaves | [ ] arms_tvcart | [ ] arms_wallsconcespec |
 | [ ] arms_wardrove | [ ] arms_wheater | [ ] armsl_wood01 | [ ] ArmsWindowProjectorAa |
 | [ ] ArmsWindowProjectorBb | [ ] ArmsWindowProjectorCc | [ ] BasementFace1 | [ ] BasementFace2 |
 | [ ] BasementFace3 | [ ] BasementFace4 | [ ] BasementWater | [ ] BasementWaterSpecMask |
