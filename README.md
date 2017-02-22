@@ -1,6 +1,7 @@
 # S4OQ
 
 ![Craps table, before and after](https://github.com/ukozdan/S4OQ/blob/master/Preview/barb_craptable_comparison.jpg)
+*Figure 1: Original texture versus recreated version.*
 
 ## Basic approach
 
