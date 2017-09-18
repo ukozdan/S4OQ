@@ -1,5 +1,17 @@
 # Ignore all Photoshop files, original texture files and master directories
 *.dds
 *.psd
+*.bmp
+*.png
+*.u
+*.ukx
+*.mopp
+*s4m
+*.usx
+*.uax
+*.ogg
+*.utx
 dl/
 optimised/
+Custom/
+To sort/
